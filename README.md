@@ -1,7 +1,5 @@
 # RemovalistNow — Australian Moving Resources & Removalist Guides
 
-# RemovalistNow — Australian Moving Resources & Removalist Guides
-
 RemovalistNow provides practical moving resources for Australians planning local, interstate, residential, commercial and specialty moves.
 
 This repository brings together useful information about removalist quotes, moving costs, interstate routes, furniture removals, office relocations, piano moving and practical moving preparation.
