@@ -1,7 +1,7 @@
 # RemovalistNow — Australian Moving Resources & Removalist Guides
 
 RemovalistNow provides practical moving resources for Australians planning local, interstate, residential, commercial and specialty moves.
-
+Whether you're planning a local move or relocating interstate, comparing [verified removalists across Australia](https://www.removalistnow.com.au/) can help you understand your options before committing to a mover.
 This repository brings together useful information about removalist quotes, moving costs, interstate routes, furniture removals, office relocations, piano moving and practical moving preparation.
 
 The resources are designed to help people understand their moving options before requesting quotes from professional removalists.
@@ -41,6 +41,8 @@ The guide also explains how local and interstate moves are priced and what custo
 ---
 
 ## Interstate Moving Routes
+
+Before choosing a mover, it is worth comparing several providers based on price, services, availability and customer reviews. Platforms such as [RemovalistNow](https://www.removalistnow.com.au/) let customers submit their moving requirements and compare quotes from verified removalists.
 
 Interstate moves require more planning than ordinary local moves because distance, vehicle capacity, delivery scheduling, access conditions and route logistics can all influence the final quote.
 
@@ -228,6 +230,7 @@ For accurate quoting, provide an inventory whenever possible and mention stairs,
 ---
 
 # Moving Quote Checklist
+Once you know your moving requirements, you can [compare free removalist quotes](https://www.removalistnow.com.au/) based on your location, move size and preferred services.
 
 Before accepting a removalist quote, check whether the price clearly explains:
 
