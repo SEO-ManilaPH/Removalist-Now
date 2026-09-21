@@ -216,6 +216,23 @@ Customers planning a CBD relocation can compare [Sydney CBD removalists](https:/
 For apartment moves, customers should confirm lift dimensions, loading arrangements and building rules before moving day.
 
 ---
+### Sydney Removalist FAQs
+
+**Do removalists pack and unpack in Sydney?**
+
+Many removalists offer packing and unpacking as additional services, but inclusions vary by company and quote. Customers should confirm whether packing materials, packing labour and unpacking are included before booking.
+
+**Can removalists move a single piece of furniture in Sydney?**
+
+Yes, some removalists handle single-item and small-load moves. Availability, minimum charges and pricing vary depending on the item, access and distance. RemovalistNow can be used to request and compare quotes.
+
+**How much does a 2 bedroom move cost in Sydney?**
+
+The cost depends on factors such as access, distance, moving date, services required and the amount of furniture. Compare quotes from professional removalists rather than relying on a single advertised price.
+
+**How much does a 3 bedroom move cost in Sydney?**
+
+A three-bedroom move can vary considerably depending on volume, access, labour, distance and additional services such as packing or storage. Request multiple quotes to compare available options.
 
 ## Removalist Services
 
